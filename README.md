@@ -21,7 +21,7 @@ To determine whether firm-specific financial characteristics contain predictive 
 - Debt-to-Capital Ratio (DKR)
 - Earnings Per Share (EPS)
 - Net Income
-- CEO Compensation(sal)
+- CEO Total Compensation(sal)
 
 
 ## Methodology:
